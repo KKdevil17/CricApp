@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CricApp/static/css/main.83c8dd7a.chunk.css",
+    "main.js": "/CricApp/static/js/main.72ea7e2b.chunk.js",
+    "main.js.map": "/CricApp/static/js/main.72ea7e2b.chunk.js.map",
+    "runtime-main.js": "/CricApp/static/js/runtime-main.b8511d66.js",
+    "runtime-main.js.map": "/CricApp/static/js/runtime-main.b8511d66.js.map",
+    "static/js/2.25c21016.chunk.js": "/CricApp/static/js/2.25c21016.chunk.js",
+    "static/js/2.25c21016.chunk.js.map": "/CricApp/static/js/2.25c21016.chunk.js.map",
+    "static/js/3.8555a0eb.chunk.js": "/CricApp/static/js/3.8555a0eb.chunk.js",
+    "static/js/3.8555a0eb.chunk.js.map": "/CricApp/static/js/3.8555a0eb.chunk.js.map",
+    "index.html": "/CricApp/index.html",
+    "static/css/main.83c8dd7a.chunk.css.map": "/CricApp/static/css/main.83c8dd7a.chunk.css.map",
+    "static/js/2.25c21016.chunk.js.LICENSE.txt": "/CricApp/static/js/2.25c21016.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/CricApp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8511d66.js",
+    "static/js/2.25c21016.chunk.js",
+    "static/css/main.83c8dd7a.chunk.css",
+    "static/js/main.72ea7e2b.chunk.js"
+  ]
+}
